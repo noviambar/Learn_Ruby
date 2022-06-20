@@ -1,4 +1,4 @@
-#Menghitung luas dan keliling persegi Panjang
+#Menghitung luas dan keliling persegi Panjang 
 class Rectangle
     # def initialize 
     #     @length = 0

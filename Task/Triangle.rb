@@ -1,4 +1,4 @@
-#Menghitung luas dan keliling segitiga
+#Menghitung luas dan keliling segitiga 
 class Triangle
     def initialize 
         @base = 0

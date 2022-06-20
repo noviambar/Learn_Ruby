@@ -1,4 +1,4 @@
-#Menghitung luas dan keliling jajaran genjang
+#Menghitung luas dan keliling jajaran genjang 
 class Parallelogram
     attr_accessor :side_a, :base, :height, :side_b
 

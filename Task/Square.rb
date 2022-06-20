@@ -1,4 +1,4 @@
-#Menghitung luas dan keliling persegi
+#Menghitung luas dan keliling persegi 
 class Square
     def initialize side = 0
         @side = side

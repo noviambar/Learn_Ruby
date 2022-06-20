@@ -1,4 +1,4 @@
-#Menghitung luas dan keliling Layang-Layang
+#Menghitung luas dan keliling Layang-Layang 
 class Kite
     def initialize 
         @diagonal_a = 0

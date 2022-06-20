@@ -1,4 +1,4 @@
-class Game
+class Game 
   def initialize
     @word = []
     @task = ["rose","tulip","sunflower","lavender","daisy"].shuffle

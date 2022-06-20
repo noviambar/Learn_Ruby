@@ -1,4 +1,4 @@
-module Math
+module Math 
   class Menu
     @w = 0
     @side = 0

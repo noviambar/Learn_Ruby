@@ -1,4 +1,4 @@
-#Menghitung luas dan keliling Trapesium
+#Menghitung luas dan keliling Trapesium 
 class Trapezium
     def initialize
         @side_a = 0
