@@ -1,4 +1,4 @@
-#Menghitung luas dan keliling Belah Ketupat
+#Menghitung luas dan keliling Belah Ketupat 
 class Rhombus
     def initialize 
         @diagonal_a = 0
